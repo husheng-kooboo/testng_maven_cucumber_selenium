@@ -1,0 +1,10 @@
+Steps\User.class
+Base\BaseUtil.class
+Steps\MyStepdefs1.class
+Transformation\EmailTransform.class
+Steps\Configurer$1.class
+Pages\LoginPage.class
+Steps\Configurer$Transformer.class
+Steps\Configurer.class
+runner\TestRunner.class
+Steps\Hook.class
