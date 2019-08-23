@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 
 //@RunWith(Cucumber.class)
 @CucumberOptions(
-        features = {"src/test/java/Features/login.feature"},
+        features = {"src/test/java/Features"},
         glue = {"Steps"},
         tags = {"@login"},
         monochrome = true,
