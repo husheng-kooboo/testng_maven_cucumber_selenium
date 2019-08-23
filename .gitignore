@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+/target/cucumber-report-html/
+/target/cucumber.json
+/target/CucumberBasics-1.0-SNAPSHOT.jar
